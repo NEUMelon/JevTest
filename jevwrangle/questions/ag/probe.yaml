@@ -1,0 +1,3 @@
+same_version_probe:
+  type: noul
+  instructions: "Do `record_a.title` and `record_b.title` state the same version number?"

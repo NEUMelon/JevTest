@@ -1,0 +1,3 @@
+price_within_10pct:
+  type: noul
+  instructions: "Is the price of `record_a` within 10% of the price of `record_b`?"

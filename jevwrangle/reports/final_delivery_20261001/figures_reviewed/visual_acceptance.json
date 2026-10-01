@@ -1,0 +1,13 @@
+{
+  "status": "FOUR_FIGURES_VISUALLY_REVIEWED",
+  "method": "Actual view_image inspection of all four final PNGs; PDF and PNG generated from the same matplotlib figure",
+  "backend": "Python matplotlib",
+  "figures": [
+    {"name": "learning_curves_full_test", "verdict": "PASS", "checks": "All four datasets, methods, readable axes, mean plus/minus one seed SD labeled, full Ditto one-seed port caveat and extra validation labels, Luna subset excluded from full-test curve"},
+    {"name": "matched_task_cost_latency", "verdict": "PASS", "checks": "Same 48-pair route/concurrency in title, H/D spelled out, correct units, estimated prices and local GPU cost exclusions"},
+    {"name": "calibration_full_test", "verdict": "PASS", "checks": "Raw versus temperature markers, 2000 training labels disclosed separately from b200, conditional intervals, independent panel y scales, non-improving ECE retained"},
+    {"name": "selective_risk_b200_seed0", "verdict": "PASS", "checks": "All observations within shared 0 to 0.16 y range, steps preserve ties, coverage labeled, fixed seed and conditional accuracy/class mix caveat, no positive-recall claim"}
+  ],
+  "layout": "No observed clipped titles, labels, captions, legends or overlaps obstructing data",
+  "scope": "Visual inspection is not human review of E8 error causes or a guarantee of journal acceptance"
+}

@@ -1,0 +1,27 @@
+same_manufacturer:
+  p1: "Are `record_a` and `record_b` released by the exact same software publisher or vendor? Look at title if manufacturer is missing."
+  p2: "Do both software items come from the identical software publisher or company? Check title if publisher field is null."
+
+same_product_line:
+  p1: "Do the titles of `record_a` and `record_b` refer to the same specific software application or software series?"
+  p2: "Are `record_a` and `record_b` title descriptions referring to the exact same software package or title?"
+
+version_mismatch:
+  p1: "Is there an explicit conflict or mismatch in version numbers or publication years between `record_a.title` and `record_b.title`?"
+  p2: "Do the titles specify differing software versions, release editions, or model years?"
+
+edition_mismatch:
+  p1: "Do the records designate different software product tiers (for instance, Pro vs Home, or Standard vs Premium)?"
+  p2: "Is there a disparity in product tier or edition (such as Deluxe vs Basic or Suite vs Solo) between the two items?"
+
+license_mismatch:
+  p1: "Do the listings specify differing user seat limits, educational/academic restrictions, or upgrade vs full licenses?"
+  p2: "Does one item indicate an upgrade, OEM, student, or differing license count compared to the other?"
+
+platform_mismatch:
+  p1: "Are `record_a` and `record_b` intended for incompatible computing platforms or operating systems (such as Windows versus macOS)?"
+  p2: "Do the two software titles run on different target operating systems (e.g., PC vs Mac)?"
+
+accessory_bundle:
+  p1: "Is one of the items a physical manual, supplementary expansion, or bundled add-on rather than the base software product?"
+  p2: "Does one entry represent an add-on, documentation, or accessory rather than the standalone software application itself?"

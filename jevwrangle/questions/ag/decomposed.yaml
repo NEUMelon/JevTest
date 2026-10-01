@@ -1,0 +1,34 @@
+same_manufacturer:
+  type: noul
+  polarity: 1
+  instructions: "Are `record_a` and `record_b` from the same software publisher or manufacturer? If `manufacturer` is null, judge from the title."
+
+same_product_line:
+  type: noul
+  polarity: 1
+  instructions: "Do `record_a.title` and `record_b.title` name the same software product or product line (for example, both are Norton AntiVirus)?"
+
+version_mismatch:
+  type: noul
+  polarity: -1
+  instructions: "Do `record_a.title` and `record_b.title` state different version numbers or release years?"
+
+edition_mismatch:
+  type: noul
+  polarity: -1
+  instructions: "Do the titles indicate a different edition or tier, such as Standard vs Professional or Home vs Business?"
+
+license_mismatch:
+  type: noul
+  polarity: -1
+  instructions: "Does one record describe an upgrade, an academic or educational license, or a different number of users or licenses than the other?"
+
+platform_mismatch:
+  type: noul
+  polarity: -1
+  instructions: "Do `record_a` and `record_b` target different platforms, such as Windows vs Mac?"
+
+accessory_bundle:
+  type: noul
+  polarity: -1
+  instructions: "Is one of `record_a` and `record_b` an add-on, manual, or bundle for the other rather than the same product?"

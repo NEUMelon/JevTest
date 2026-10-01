@@ -1,0 +1,56 @@
+# 数据集来源、下载链接与预期参数配置
+datasets:
+  # 实体匹配 (EM)
+  wa:
+    name: "Walmart-Amazon"
+    type: "entity_matching"
+    source: "fm_data_tasks/datasets/entity_matching/structured/Walmart-Amazon"
+    expected_pairs: 10242
+    expected_pos: 962
+    expected_test: 2049
+    attrs: ["title", "category", "brand", "modelno", "price"]
+
+  ag:
+    name: "Amazon-Google"
+    type: "entity_matching"
+    source: "fm_data_tasks/datasets/entity_matching/structured/Amazon-Google"
+    expected_pairs: 11460
+    expected_pos: 1167
+    expected_test: 2293
+    attrs: ["title", "manufacturer", "price"]
+
+  da:
+    name: "DBLP-ACM"
+    type: "entity_matching"
+    source: "fm_data_tasks/datasets/entity_matching/structured/DBLP-ACM"
+    expected_pairs: 12363
+    expected_pos: 2220
+    expected_test: 2473
+    attrs: ["title", "authors", "venue", "year"]
+
+  ab:
+    name: "Abt-Buy"
+    type: "entity_matching"
+    source: "ditto_er_magellan/Textual/Abt-Buy"
+    expected_pairs: 9575
+    expected_pos: 1028
+    expected_test: 1916
+    attrs: ["name", "description", "price"]
+
+  # 错误检测 (ED)
+  ho:
+    name: "Hospital"
+    type: "error_detection"
+    source: "fm_data_tasks/datasets/error_detection/Hospital"
+    expected_rows: 1000
+
+  ad:
+    name: "Adult"
+    type: "error_detection"
+    source: "fm_data_tasks/datasets/error_detection/Adult"
+
+  fl:
+    name: "Flights"
+    type: "error_detection"
+    source: "raha/datasets/flights"
+    expected_rows: 2376

@@ -1,0 +1,11 @@
+same_title:
+  p1: "Do the titles in `record_a` and `record_b` indicate the exact same academic paper, regardless of casing or punctuation?"
+  p2: "Allowing for differences in capitalization, punctuation, and character encoding, do `record_a.title` and `record_b.title` match as the same publication?"
+
+same_authors:
+  p1: "Do `record_a.authors` and `record_b.authors` name the identical list of researchers, permitting different ordering or abbreviated first names?"
+  p2: "Are the authors listed in `record_a` and `record_b` the same people, taking into account initials, ordering shifts, and transliteration?"
+
+same_venue:
+  p1: "Do `record_a.venue` and `record_b.venue` denote the same conference, workshop, or journal, accounting for common acronyms and full names?"
+  p2: "Are `record_a` and `record_b` published in the same publication venue, allowing for standard abbreviations or acronyms?"

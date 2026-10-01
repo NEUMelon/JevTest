@@ -1,0 +1,3 @@
+same_year_probe:
+  type: noul
+  instructions: "Do `record_a.year` and `record_b.year` state the same year?"

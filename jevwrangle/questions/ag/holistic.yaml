@@ -1,0 +1,23 @@
+H1_noul:
+  type: noul
+  instructions: >-
+    Do `record_a` and `record_b` describe the same real-world software product?
+    Different versions, editions, platforms, or license types count as different products.
+    Add-ons, manuals, and bundles are not the same product.
+H1_score:
+  type: score
+  instructions: How do `record_a` and `record_b` relate?
+  criteria:
+    - They describe two different software products.
+    - They describe closely related software products (e.g. variants, editions, or platforms).
+    - They describe one and the same software product.
+H1_choice:
+  type: choice
+  instructions: Do `record_a` and `record_b` describe the same real-world software product?
+  criteria:
+    same: Both records describe one and the same software product.
+    different: The records describe different software products, editions, versions, or platforms.
+    cannot_tell: The records do not contain enough information to decide.
+H0:
+  type: noul
+  instructions: "Are Product A and Product B the same?"

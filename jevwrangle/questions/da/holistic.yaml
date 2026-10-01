@@ -1,0 +1,22 @@
+H1_noul:
+  type: noul
+  instructions: >-
+    Do `record_a` and `record_b` describe the same publication?
+    A journal version and a conference version of the same work count as different publications.
+H1_score:
+  type: score
+  instructions: How do `record_a` and `record_b` relate?
+  criteria:
+    - They describe two different publications.
+    - They describe closely related publications (e.g. conference vs journal version, or same topic by same authors).
+    - They describe one and the same publication.
+H1_choice:
+  type: choice
+  instructions: Do `record_a` and `record_b` describe the same publication?
+  criteria:
+    same: Both records describe one and the same publication.
+    different: The records describe different publications (including journal vs conference version).
+    cannot_tell: The records do not contain enough information to decide.
+H0:
+  type: noul
+  instructions: "Are Paper A and Paper B the same publication?"

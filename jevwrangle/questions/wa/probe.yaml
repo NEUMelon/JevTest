@@ -1,0 +1,7 @@
+price_within_10pct:
+  type: noul
+  instructions: "Is the price of `record_a` within 10% of the price of `record_b`?"
+
+same_modelno_probe:
+  type: noul
+  instructions: "Are `record_a.modelno` and `record_b.modelno` the same code after ignoring case, spaces, hyphens, and slashes?"

@@ -1,0 +1,14 @@
+same_title:
+  type: noul
+  polarity: 1
+  instructions: "Do `record_a.title` and `record_b.title` name the same paper, allowing for differences in capitalization, punctuation, and character encoding?"
+
+same_authors:
+  type: noul
+  polarity: 1
+  instructions: "Do `record_a.authors` and `record_b.authors` list the same people, allowing for initials, a different order, and encoding differences?"
+
+same_venue:
+  type: noul
+  polarity: 1
+  instructions: "Do `record_a.venue` and `record_b.venue` refer to the same publication venue, allowing for abbreviations such as 'vldb' and 'very large data bases'?"

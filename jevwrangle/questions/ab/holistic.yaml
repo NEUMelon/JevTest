@@ -1,0 +1,23 @@
+H1_noul:
+  type: noul
+  instructions: >-
+    Do `record_a` and `record_b` describe the same real-world product?
+    Different sizes, capacities, colors, editions, versions, or pack quantities
+    count as different products. Accessories and bundles are not the same product.
+H1_score:
+  type: score
+  instructions: How do `record_a` and `record_b` relate?
+  criteria:
+    - They describe two different products.
+    - They describe closely related products that may or may not be the same one, such as a variant, a bundle, or a name that could refer to either.
+    - They describe one and the same product.
+H1_choice:
+  type: choice
+  instructions: Do `record_a` and `record_b` describe the same real-world product?
+  criteria:
+    same: Both records describe one and the same product.
+    different: The records describe different products, including different variants, versions, editions, or bundles.
+    cannot_tell: The records do not contain enough information to decide.
+H0:
+  type: noul
+  instructions: "Are Product A and Product B the same?"

@@ -1,0 +1,25 @@
+dataset,category,n,base_errors,errors_repaired,errors_introduced,repaired_fraction
+wa,Accessory/Bundle Difference,3,0,0,0,
+wa,Label Noise / Ambiguous,2,1,0,0,0.0
+wa,Missing Attribute,708,21,11,11,0.5238095238095238
+wa,Model/ID Mismatch,1230,20,6,4,0.3
+wa,Numeric Difference,52,2,2,0,1.0
+wa,Other Semantic,40,0,0,0,
+wa,Variant/Version Mismatch,14,0,0,0,
+ag,Label Noise / Ambiguous,3,2,0,1,0.0
+ag,Missing Attribute,2064,141,57,56,0.40425531914893614
+ag,Model/ID Mismatch,10,2,0,0,0.0
+ag,Numeric Difference,136,12,6,8,0.5
+ag,Other Semantic,72,6,1,2,0.16666666666666666
+ag,Variant/Version Mismatch,8,0,0,0,
+da,Accessory/Bundle Difference,7,0,0,0,
+da,Label Noise / Ambiguous,4,4,0,0,0.0
+da,Model/ID Mismatch,201,0,0,0,
+da,Numeric Difference,1554,14,13,0,0.9285714285714286
+da,Other Semantic,707,25,12,3,0.48
+ab,Accessory/Bundle Difference,64,1,0,0,0.0
+ab,Label Noise / Ambiguous,64,5,1,5,0.2
+ab,Model/ID Mismatch,1473,6,1,4,0.16666666666666666
+ab,Numeric Difference,37,0,0,1,
+ab,Other Semantic,87,4,0,3,0.0
+ab,Variant/Version Mismatch,191,3,1,4,0.3333333333333333

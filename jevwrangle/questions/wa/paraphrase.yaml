@@ -1,0 +1,23 @@
+same_brand:
+  p1: "Do `record_a` and `record_b` share the same brand or manufacturer? If brand is not specified, infer it from the product title."
+  p2: "Are the two items in `record_a` and `record_b` produced by the same brand or company? Check title if brand field is missing."
+
+same_model_id:
+  p1: "Do `record_a` and `record_b` correspond to identical model numbers or product identifiers, disregarding punctuation, case, and whitespace?"
+  p2: "Do both `record_a` and `record_b` have the exact same model code or part number, ignoring spacing, hyphens, and letter casing?"
+
+same_product_type:
+  p1: "Do `record_a` and `record_b` belong to the same product category (e.g., both are printers or both are cables)?"
+  p2: "Are `record_a` and `record_b` the identical category of merchandise?"
+
+variant_mismatch:
+  p1: "Is there any discrepancy between `record_a` and `record_b` in terms of size, capacity, color, count, or version?"
+  p2: "Do the descriptions of `record_a` and `record_b` indicate conflicting package quantities, dimensions, storage capacities, or colors?"
+
+accessory_bundle:
+  p1: "Is either item merely an attachment, add-on accessory, or bundle component for the other rather than being the standalone product itself?"
+  p2: "Does one record represent a compatible part, case, or accessory rather than the primary product listed in the other record?"
+
+title_same_item:
+  p1: "Regardless of minor variations in wording or format, do `record_a.title` and `record_b.title` refer to the exact same physical product?"
+  p2: "Disregarding differences in phrasing, do the titles of `record_a` and `record_b` describe the exact same item?"

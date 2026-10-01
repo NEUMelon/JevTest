@@ -1,0 +1,5 @@
+dataset,observed_f1,reference,gap,status,source,table,note
+wa,86.37532133676092,86.76,-0.38467866323908595,WITHIN_5_POINTS,https://arxiv.org/pdf/2004.00584,5,"One-seed port check, not a multi-seed literature replication"
+ag,73.46153846153847,75.58,-2.1184615384615313,WITHIN_5_POINTS,https://arxiv.org/pdf/2004.00584,5,"One-seed port check, not a multi-seed literature replication"
+da,98.54423292273236,98.99,-0.4457670772676323,WITHIN_5_POINTS,https://arxiv.org/pdf/2004.00584,5,"One-seed port check, not a multi-seed literature replication"
+ab,88.9908256880734,89.33,-0.3391743119265982,WITHIN_5_POINTS,https://arxiv.org/pdf/2004.00584,5,"One-seed port check, not a multi-seed literature replication"

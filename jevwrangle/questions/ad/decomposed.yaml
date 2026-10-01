@@ -1,0 +1,28 @@
+H_err:
+  type: noul
+  instructions: "Is the value of `row.{c}` erroneous, such as a typo, a wrong value, or a formatting error?"
+
+D_typo:
+  type: noul
+  polarity: 1
+  instructions: "Does `row.{c}` contain a misspelling or a corrupted character sequence?"
+
+D_format:
+  type: noul
+  polarity: 1
+  instructions: "Is `row.{c}` written in a format that differs from the typical values in `column_profile.{c}`?"
+
+D_consistency:
+  type: noul
+  polarity: 1
+  instructions: "Is `row.{c}` inconsistent with the other values in `row` (for example, education level inconsistent with age or occupation)?"
+
+D_placeholder:
+  type: noul
+  polarity: 1
+  instructions: "Is `row.{c}` a placeholder or missing-value marker such as '?', 'n/a', '-', or 'unknown'?"
+
+D_implausible:
+  type: noul
+  polarity: 1
+  instructions: "Is `row.{c}` an implausible value for a column named '{c}'?"

@@ -1,0 +1,225 @@
+dataset,system,budget,status,f1_mean,f1_std,n_seeds,coverage,f1_at_05_mean,source,test_protocol
+ab,C+LR,1000,recomputed_complete,60.71483418631691,0.5469056302367569,5,1.0,54.13555422695326,Rebuilt Jev,Full canonical test
+ab,C+LR,200,recomputed_complete,57.7764324207551,2.641211166366852,10,1.0,54.82262614949725,Rebuilt Jev,Full canonical test
+ab,C+LR,50,recomputed_complete,43.119624602898384,18.79134310633611,10,1.0,43.90699167979092,Rebuilt Jev,Full canonical test
+ab,C+LR,full,recomputed_complete,60.31386800684728,0.3235775842761579,3,1.0,59.21052631578946,Rebuilt Jev,Full canonical test
+ab,J-D+C+LR,1000,recomputed_complete,92.92478946694304,1.429557383167503,5,1.0,93.68320513298951,Rebuilt Jev,Full canonical test
+ab,J-D+C+LR,200,recomputed_complete,91.54215629645417,2.131161810556877,10,1.0,92.48166773228364,Rebuilt Jev,Full canonical test
+ab,J-D+C+LR,50,recomputed_complete,87.61582518817579,7.941393059666306,10,1.0,91.2413658097764,Rebuilt Jev,Full canonical test
+ab,J-D+C+LR,full,recomputed_complete,93.99757652680682,0.1816414740372277,3,1.0,94.20289855072464,Rebuilt Jev,Full canonical test
+ab,J-D+LR,1000,recomputed_complete,93.47317466411248,1.474123107862099,5,1.0,94.08594112816152,Rebuilt Jev,Full canonical test
+ab,J-D+LR,200,recomputed_complete,91.8959184793403,2.067274174916675,10,1.0,92.79172012299304,Rebuilt Jev,Full canonical test
+ab,J-D+LR,50,recomputed_complete,87.73116229857297,6.841153176392406,10,1.0,92.31010057123264,Rebuilt Jev,Full canonical test
+ab,J-D+LR,full,recomputed_complete,93.66290354525648,1.157545577631415,3,1.0,94.35496134095986,Rebuilt Jev,Full canonical test
+ab,J-D0,0,recomputed_complete,57.34265734265735,,1,1.0,57.34265734265735,Rebuilt Jev,Full canonical test
+ab,J-H0,0,recomputed_complete,90.44289044289044,,1,1.0,90.44289044289044,Rebuilt Jev,Full canonical test
+ab,J-H1+LR,1000,recomputed_complete,90.510373989985,0.4203833128914949,5,1.0,90.06415057477663,Rebuilt Jev,Full canonical test
+ab,J-H1+LR,200,recomputed_complete,89.90356326929276,0.7195546295073394,10,1.0,90.18398124661408,Rebuilt Jev,Full canonical test
+ab,J-H1+LR,50,recomputed_complete,88.00043825086951,2.863941494593253,10,1.0,89.98649148822395,Rebuilt Jev,Full canonical test
+ab,J-H1+LR,full,recomputed_complete,90.04524886877829,0.0,3,1.0,89.83451536643025,Rebuilt Jev,Full canonical test
+ab,J-H1c,0,recomputed_complete,91.2621359223301,,1,1.0,91.2621359223301,Rebuilt Jev,Full canonical test
+ab,J-H1n,0,recomputed_complete,89.62264150943396,,1,1.0,89.62264150943396,Rebuilt Jev,Full canonical test
+ab,J-H1s,0,recomputed_complete,89.33002481389578,,1,1.0,89.33002481389578,Rebuilt Jev,Full canonical test
+ag,C+LR,1000,recomputed_complete,51.685366707724526,1.619541239216175,5,1.0,37.67158002120507,Rebuilt Jev,Full canonical test
+ag,C+LR,200,recomputed_complete,50.9569232825707,1.615237525859865,10,1.0,31.906490902601085,Rebuilt Jev,Full canonical test
+ag,C+LR,50,recomputed_complete,44.09482891732961,11.12390963617074,10,1.0,21.914421943868447,Rebuilt Jev,Full canonical test
+ag,C+LR,full,recomputed_complete,53.2716314890071,0.6250906814277994,3,1.0,39.842674532940016,Rebuilt Jev,Full canonical test
+ag,J-D+C+LR,1000,recomputed_complete,69.37407024359987,1.0579325143636409,5,1.0,63.69088021175094,Rebuilt Jev,Full canonical test
+ag,J-D+C+LR,200,recomputed_complete,64.5837051915587,3.1052107349268296,10,1.0,58.61270324376055,Rebuilt Jev,Full canonical test
+ag,J-D+C+LR,50,recomputed_complete,59.40111392280188,7.9380643124584,10,1.0,51.906214759778194,Rebuilt Jev,Full canonical test
+ag,J-D+C+LR,full,recomputed_complete,70.97524297164586,0.1049495231287849,3,1.0,66.51785714285714,Rebuilt Jev,Full canonical test
+ag,J-D+LR,1000,recomputed_complete,69.5259050272227,1.1205078683132468,5,1.0,61.3644458969918,Rebuilt Jev,Full canonical test
+ag,J-D+LR,200,recomputed_complete,67.29590969098403,2.901491363610154,10,1.0,58.321558853077725,Rebuilt Jev,Full canonical test
+ag,J-D+LR,50,recomputed_complete,64.23344341246322,4.014600700681464,10,1.0,52.86155152597114,Rebuilt Jev,Full canonical test
+ag,J-D+LR,full,recomputed_complete,69.15458191078035,0.5502405581425731,3,1.0,64.75770925110133,Rebuilt Jev,Full canonical test
+ag,J-D0,0,recomputed_complete,23.92638036809816,,1,1.0,23.92638036809816,Rebuilt Jev,Full canonical test
+ag,J-H0,0,recomputed_complete,69.95073891625616,,1,1.0,69.95073891625616,Rebuilt Jev,Full canonical test
+ag,J-H1+LR,1000,recomputed_complete,67.05605139682413,0.4164734466412544,5,1.0,57.24315744669101,Rebuilt Jev,Full canonical test
+ag,J-H1+LR,200,recomputed_complete,65.84775413868695,2.036446106603253,10,1.0,53.44713366122981,Rebuilt Jev,Full canonical test
+ag,J-H1+LR,50,recomputed_complete,64.97074433535042,4.378910675912788,10,1.0,40.872728914951686,Rebuilt Jev,Full canonical test
+ag,J-H1+LR,full,recomputed_complete,69.3950177935943,0.0,3,1.0,59.10165484633569,Rebuilt Jev,Full canonical test
+ag,J-H1c,0,recomputed_complete,68.88888888888889,,1,1.0,68.88888888888889,Rebuilt Jev,Full canonical test
+ag,J-H1n,0,recomputed_complete,68.8135593220339,,1,1.0,68.8135593220339,Rebuilt Jev,Full canonical test
+ag,J-H1s,0,recomputed_complete,67.14031971580818,,1,1.0,67.14031971580818,Rebuilt Jev,Full canonical test
+da,C+LR,1000,recomputed_complete,97.31903163950145,0.003282134213231,5,1.0,97.42580619694864,Rebuilt Jev,Full canonical test
+da,C+LR,200,recomputed_complete,96.57601920371424,0.9954451948791858,10,1.0,96.81456034106355,Rebuilt Jev,Full canonical test
+da,C+LR,50,recomputed_complete,93.327176556138,2.7227897595466444,10,1.0,95.47962244748666,Rebuilt Jev,Full canonical test
+da,C+LR,full,recomputed_complete,97.32142857142856,0.0,3,1.0,97.32142857142856,Rebuilt Jev,Full canonical test
+da,J-D+C+LR,1000,recomputed_complete,97.95945054422631,0.3031242796441069,5,1.0,98.15560754818505,Rebuilt Jev,Full canonical test
+da,J-D+C+LR,200,recomputed_complete,97.37054539207516,0.7976737184962818,10,1.0,97.19324415515334,Rebuilt Jev,Full canonical test
+da,J-D+C+LR,50,recomputed_complete,92.76957280758916,6.104445512862027,10,1.0,95.74756156025217,Rebuilt Jev,Full canonical test
+da,J-D+C+LR,full,recomputed_complete,98.43857564650214,0.1133702683587643,3,1.0,98.51181791654508,Rebuilt Jev,Full canonical test
+da,J-D+LR,1000,recomputed_complete,95.8299644018654,0.376172869056193,5,1.0,96.03574801378102,Rebuilt Jev,Full canonical test
+da,J-D+LR,200,recomputed_complete,95.52337246122268,0.4493623589649527,10,1.0,95.66302044825687,Rebuilt Jev,Full canonical test
+da,J-D+LR,50,recomputed_complete,91.23464057791334,6.124683750219967,10,1.0,94.62248761167912,Rebuilt Jev,Full canonical test
+da,J-D+LR,full,recomputed_complete,96.04395604395604,0.0,3,1.0,95.97039669317084,Rebuilt Jev,Full canonical test
+da,J-D0,0,recomputed_complete,92.29166666666669,,1,1.0,92.29166666666669,Rebuilt Jev,Full canonical test
+da,J-H0,0,recomputed_complete,97.46416758544652,,1,1.0,97.46416758544652,Rebuilt Jev,Full canonical test
+da,J-H1+LR,1000,recomputed_complete,97.19410269930364,0.1771958930315906,5,1.0,97.07846299408304,Rebuilt Jev,Full canonical test
+da,J-H1+LR,200,recomputed_complete,96.93154172849246,0.2678684739947498,10,1.0,96.99535387731176,Rebuilt Jev,Full canonical test
+da,J-H1+LR,50,recomputed_complete,93.18438384211429,6.529968669419562,10,1.0,96.33785626669268,Rebuilt Jev,Full canonical test
+da,J-H1+LR,full,recomputed_complete,97.00996677740864,0.0,3,1.0,97.00996677740864,Rebuilt Jev,Full canonical test
+da,J-H1c,0,recomputed_complete,97.46416758544652,,1,1.0,97.46416758544652,Rebuilt Jev,Full canonical test
+da,J-H1n,0,recomputed_complete,96.29629629629628,,1,1.0,96.29629629629628,Rebuilt Jev,Full canonical test
+da,J-H1s,0,recomputed_complete,97.46416758544652,,1,1.0,97.46416758544652,Rebuilt Jev,Full canonical test
+wa,C+LR,1000,recomputed_complete,78.18682925639708,0.8015730358583705,5,1.0,78.08940270250929,Rebuilt Jev,Full canonical test
+wa,C+LR,200,recomputed_complete,76.1731710852013,2.368432046481446,10,1.0,77.14693016907975,Rebuilt Jev,Full canonical test
+wa,C+LR,50,recomputed_complete,54.59220510241471,16.834877349210224,10,1.0,68.18785758468071,Rebuilt Jev,Full canonical test
+wa,C+LR,full,recomputed_complete,79.52451534110973,0.3574955936702522,3,1.0,77.35849056603774,Rebuilt Jev,Full canonical test
+wa,J-D+C+LR,1000,recomputed_complete,89.09101347860201,1.031304920769735,5,1.0,88.92836524774313,Rebuilt Jev,Full canonical test
+wa,J-D+C+LR,200,recomputed_complete,86.76156788078244,2.3307874557852992,10,1.0,88.3182073258976,Rebuilt Jev,Full canonical test
+wa,J-D+C+LR,50,recomputed_complete,82.69407876966716,6.743826725108868,10,1.0,84.4250311927434,Rebuilt Jev,Full canonical test
+wa,J-D+C+LR,full,recomputed_complete,90.7208380278998,0.2438394481974302,3,1.0,89.8936170212766,Rebuilt Jev,Full canonical test
+wa,J-D+LR,1000,recomputed_complete,89.36522459605537,0.3346163558508119,5,1.0,89.57738611720588,Rebuilt Jev,Full canonical test
+wa,J-D+LR,200,recomputed_complete,87.61190503390269,2.5967031207150915,10,1.0,88.66060508191114,Rebuilt Jev,Full canonical test
+wa,J-D+LR,50,recomputed_complete,82.00953053513915,8.815635156780598,10,1.0,87.65465070006832,Rebuilt Jev,Full canonical test
+wa,J-D+LR,full,recomputed_complete,89.21378306674961,0.3805312836946044,3,1.0,89.76377952755905,Rebuilt Jev,Full canonical test
+wa,J-D0,0,recomputed_complete,38.61788617886179,,1,1.0,38.61788617886179,Rebuilt Jev,Full canonical test
+wa,J-H0,0,recomputed_complete,86.22448979591837,,1,1.0,86.22448979591837,Rebuilt Jev,Full canonical test
+wa,J-H1+LR,1000,recomputed_complete,85.0356736547429,0.6837263743073371,5,1.0,85.00806419752571,Rebuilt Jev,Full canonical test
+wa,J-H1+LR,200,recomputed_complete,85.92890784480342,0.3702840699174871,10,1.0,85.90527781816152,Rebuilt Jev,Full canonical test
+wa,J-H1+LR,50,recomputed_complete,79.83711349785393,3.3079210606231104,10,1.0,84.62646432829182,Rebuilt Jev,Full canonical test
+wa,J-H1+LR,full,recomputed_complete,84.99160577900734,0.8264828284207055,3,1.0,85.79088471849866,Rebuilt Jev,Full canonical test
+wa,J-H1c,0,recomputed_complete,88.25065274151436,,1,1.0,88.25065274151436,Rebuilt Jev,Full canonical test
+wa,J-H1n,0,recomputed_complete,84.84848484848484,,1,1.0,84.84848484848484,Rebuilt Jev,Full canonical test
+wa,J-H1s,0,recomputed_complete,86.93181818181817,,1,1.0,86.93181818181817,Rebuilt Jev,Full canonical test
+ab,M2+LR,50,,37.10514185577544,12.263231387072093,10,,37.87479362639276,Custom string features,Full canonical test
+ab,M2+LR,200,,46.47675273313858,4.085950054985837,10,,41.124292114546,Custom string features,Full canonical test
+ab,M2+LR,1000,,51.70720351867046,0.914092667778513,5,,41.45054534992424,Custom string features,Full canonical test
+ab,M2+LR,full,,53.76292923673224,0.2334863762459696,3,,42.48366013071895,Custom string features,Full canonical test
+ab,M2+best,50,,33.71622592833014,11.601103423454438,10,,34.62157739374356,Custom string features,Full canonical test
+ab,M2+best,200,,38.420817143544745,6.605499193509292,10,,37.45620375606675,Custom string features,Full canonical test
+ab,M2+best,1000,,43.07032683953655,7.936706412818595,5,,40.67124487742505,Custom string features,Full canonical test
+ab,M2+best,full,,61.06340881970633,0.7372584524404313,3,,55.05522514868309,Custom string features,Full canonical test
+ag,M2+LR,50,,44.77801738113951,9.425069842693365,10,,36.3293250929976,Custom string features,Full canonical test
+ag,M2+LR,200,,53.47106463176749,2.55801843020544,10,,47.2695089471471,Custom string features,Full canonical test
+ag,M2+LR,1000,,55.86684247433102,1.93971457436293,5,,50.43063319197344,Custom string features,Full canonical test
+ag,M2+LR,full,,58.37395064679737,0.4963715837173736,3,,52.459016393442624,Custom string features,Full canonical test
+ag,M2+best,50,,40.24357622899849,8.164475437333577,10,,38.05365940805045,Custom string features,Full canonical test
+ag,M2+best,200,,47.736933789521046,8.979465874880892,10,,45.62116981780107,Custom string features,Full canonical test
+ag,M2+best,1000,,56.617554004453645,0.6354712245165062,5,,50.77990564438816,Custom string features,Full canonical test
+ag,M2+best,full,,66.35664438345887,1.0456476564586294,3,,60.77793534178178,Custom string features,Full canonical test
+da,M2+LR,50,,91.38802790049368,1.4189011983152615,10,,92.36506996037008,Custom string features,Full canonical test
+da,M2+LR,200,,94.49783821074249,0.9626790269732628,10,,94.962714268597,Custom string features,Full canonical test
+da,M2+LR,1000,,97.33524093874136,0.4354978794555512,5,,97.59628840553316,Custom string features,Full canonical test
+da,M2+LR,full,,98.06696602440036,0.0618880898983783,3,,98.10055865921788,Custom string features,Full canonical test
+da,M2+best,50,,91.30716872890446,2.386558649445176,10,,91.86817483680908,Custom string features,Full canonical test
+da,M2+best,200,,94.70278574928078,1.3888810869122763,10,,95.0232735711806,Custom string features,Full canonical test
+da,M2+best,1000,,97.9273213539838,0.2766485827310096,5,,97.83573025182372,Custom string features,Full canonical test
+da,M2+best,full,,98.06696602440036,0.0618880898983783,3,,98.21053686399276,Custom string features,Full canonical test
+wa,M2+LR,50,,50.95513942729266,19.56288653703048,10,,60.744225368805154,Custom string features,Full canonical test
+wa,M2+LR,200,,69.48902108490908,2.2708509155171206,10,,70.7472758164404,Custom string features,Full canonical test
+wa,M2+LR,1000,,74.34597486724931,1.0660187703561326,5,,74.4599690895329,Custom string features,Full canonical test
+wa,M2+LR,full,,75.89419507640454,0.2905411050160305,3,,74.29187416092957,Custom string features,Full canonical test
+wa,M2+best,50,,54.73094518168108,15.336379060633345,10,,59.20008502345318,Custom string features,Full canonical test
+wa,M2+best,200,,68.39784985454924,3.666899105798032,10,,69.44804213419431,Custom string features,Full canonical test
+wa,M2+best,1000,,74.25212904887513,1.994625670741697,5,,75.93356857210068,Custom string features,Full canonical test
+wa,M2+best,full,,78.49805724933572,0.5734409056186398,3,,78.08345089698435,Custom string features,Full canonical test
+ab,Ditto,50,,16.63209018680885,6.358280855787962,3,,,40 Ditto GPU jobs,Full canonical test
+ab,Ditto,200,,29.86423373520148,10.96222729323385,3,,,40 Ditto GPU jobs,Full canonical test
+ab,Ditto,1000,,76.52402421334641,3.828589962259224,3,,,40 Ditto GPU jobs,Full canonical test
+ab,Ditto,full,,88.9908256880734,,1,,,40 Ditto GPU jobs,Full canonical test
+ag,Ditto,50,,17.28623919746173,5.195000960863001,3,,,40 Ditto GPU jobs,Full canonical test
+ag,Ditto,200,,50.19656164741775,2.3313276758101216,3,,,40 Ditto GPU jobs,Full canonical test
+ag,Ditto,1000,,60.43931026572317,1.524143909329618,3,,,40 Ditto GPU jobs,Full canonical test
+ag,Ditto,full,,73.46153846153847,,1,,,40 Ditto GPU jobs,Full canonical test
+da,Ditto,50,,89.78087337726357,1.1961422053270525,3,,,40 Ditto GPU jobs,Full canonical test
+da,Ditto,200,,90.57629300400528,1.0553977155770682,3,,,40 Ditto GPU jobs,Full canonical test
+da,Ditto,1000,,95.8312661206316,1.476804054473014,3,,,40 Ditto GPU jobs,Full canonical test
+da,Ditto,full,,98.54423292273236,,1,,,40 Ditto GPU jobs,Full canonical test
+wa,Ditto,50,,19.48152637096757,1.1555285093880932,3,,,40 Ditto GPU jobs,Full canonical test
+wa,Ditto,200,,30.613563914723983,4.31518212669846,3,,,40 Ditto GPU jobs,Full canonical test
+wa,Ditto,1000,,74.02232060055191,3.2309593235975256,3,,,40 Ditto GPU jobs,Full canonical test
+wa,Ditto,full,,86.37532133676092,,1,,,40 Ditto GPU jobs,Full canonical test
+ab,Q-D+LR,50,,73.67960857071083,6.2879568829350125,10,,,Qwen HF token probabilities,Full canonical test
+ab,Q-D+LR,200,,82.00421646170523,1.5094490442821709,10,,,Qwen HF token probabilities,Full canonical test
+ab,Q-D+LR,1000,,83.96531992006476,0.5842778117834971,5,,,Qwen HF token probabilities,Full canonical test
+ab,Q-H1,0,,69.5187165775401,,1,,,Qwen HF token probabilities,Full canonical test
+ab,Q-H1+LR,50,,72.9172024920155,2.826012113174518,10,,,Qwen HF token probabilities,Full canonical test
+ab,Q-H1+LR,200,,72.39997566870684,3.2049553488296083,10,,,Qwen HF token probabilities,Full canonical test
+ab,Q-H1+LR,1000,,74.02439880155829,0.6997184830232689,5,,,Qwen HF token probabilities,Full canonical test
+ag,Q-D+LR,50,,39.836629645424,10.692133567942731,10,,,Qwen HF token probabilities,Full canonical test
+ag,Q-D+LR,200,,55.653059674591006,2.05086786114062,10,,,Qwen HF token probabilities,Full canonical test
+ag,Q-D+LR,1000,,57.80791519105178,1.4681181214699808,5,,,Qwen HF token probabilities,Full canonical test
+ag,Q-H1,0,,23.972602739726025,,1,,,Qwen HF token probabilities,Full canonical test
+ag,Q-H1+LR,50,,43.93738919943122,5.865046803293827,10,,,Qwen HF token probabilities,Full canonical test
+ag,Q-H1+LR,200,,46.42973876496702,3.08918504027553,10,,,Qwen HF token probabilities,Full canonical test
+ag,Q-H1+LR,1000,,47.937837349068936,1.0202155109204163,5,,,Qwen HF token probabilities,Full canonical test
+da,Q-D+LR,50,,91.1519868846026,5.154593755207024,10,,,Qwen HF token probabilities,Full canonical test
+da,Q-D+LR,200,,95.49388609853996,0.6593209957896324,10,,,Qwen HF token probabilities,Full canonical test
+da,Q-D+LR,1000,,96.24197688908028,0.4120245799234068,5,,,Qwen HF token probabilities,Full canonical test
+da,Q-H1,0,,9.850107066381156,,1,,,Qwen HF token probabilities,Full canonical test
+da,Q-H1+LR,50,,92.98759963545264,2.866065687978597,10,,,Qwen HF token probabilities,Full canonical test
+da,Q-H1+LR,200,,94.8028969336438,0.8578314109059014,10,,,Qwen HF token probabilities,Full canonical test
+da,Q-H1+LR,1000,,94.87246492424428,0.2016390063458499,5,,,Qwen HF token probabilities,Full canonical test
+wa,Q-D+LR,50,,71.68153212669935,7.820844795749344,10,,,Qwen HF token probabilities,Full canonical test
+wa,Q-D+LR,200,,80.506208955157,4.283479400852091,10,,,Qwen HF token probabilities,Full canonical test
+wa,Q-D+LR,1000,,83.80162610472308,1.251259169295001,5,,,Qwen HF token probabilities,Full canonical test
+wa,Q-H1,0,,44.6215139442231,,1,,,Qwen HF token probabilities,Full canonical test
+wa,Q-H1+LR,50,,65.57885174652223,2.07254574863061,10,,,Qwen HF token probabilities,Full canonical test
+wa,Q-H1+LR,200,,65.70370728414383,1.9915577719605817,10,,,Qwen HF token probabilities,Full canonical test
+wa,Q-H1+LR,1000,,66.28291677749756,1.4757896925457836,5,,,Qwen HF token probabilities,Full canonical test
+ab,NLI-H1,0,,20.088626292466767,,1,,,BART MNLI appendix,Full canonical test
+ab,NLI-H1+LR,50,,21.410618674666765,1.770164186721557,10,,,BART MNLI appendix,Full canonical test
+ab,NLI-H1+LR,200,,22.325371319394883,0.98024910796933,10,,,BART MNLI appendix,Full canonical test
+ab,NLI-H1+LR,1000,,22.2540144272652,0.2159154404242215,5,,,BART MNLI appendix,Full canonical test
+ag,NLI-H1,0,,19.82974461692539,,1,,,BART MNLI appendix,Full canonical test
+ag,NLI-H1+LR,50,,20.699189147105876,5.05536983530168,10,,,BART MNLI appendix,Full canonical test
+ag,NLI-H1+LR,200,,23.43501930812884,3.008305982484004,10,,,BART MNLI appendix,Full canonical test
+ag,NLI-H1+LR,1000,,25.1589747689198,0.3608709042479592,5,,,BART MNLI appendix,Full canonical test
+da,NLI-H1,0,,32.19255359157578,,1,,,BART MNLI appendix,Full canonical test
+da,NLI-H1+LR,50,,38.82436948426589,5.959988041534927,10,,,BART MNLI appendix,Full canonical test
+da,NLI-H1+LR,200,,43.30258520565079,2.312054692265334,10,,,BART MNLI appendix,Full canonical test
+da,NLI-H1+LR,1000,,44.55089102027672,0.8381084865763648,5,,,BART MNLI appendix,Full canonical test
+wa,NLI-H1,0,,17.181208053691275,,1,,,BART MNLI appendix,Full canonical test
+wa,NLI-H1+LR,50,,19.091325959803548,2.030035180654817,10,,,BART MNLI appendix,Full canonical test
+wa,NLI-H1+LR,200,,19.53940679414161,1.604414886426534,10,,,BART MNLI appendix,Full canonical test
+wa,NLI-H1+LR,1000,,20.656956700203075,0.6244522549037999,5,,,BART MNLI appendix,Full canonical test
+ab,L1-D+LR,50,,86.26806251392946,4.357921151942061,3,,,API repaired protocol,Fixed 500 stratified pairs
+ab,L1-D+LR,200,,93.95125635955657,0.7671933871626118,3,,,API repaired protocol,Fixed 500 stratified pairs
+ab,L1-H1,0,,92.17391304347828,,1,,,API repaired protocol,Fixed 500 stratified pairs
+ab,L1-H1+LR,50,,91.17200060596288,3.862779706564012,3,,,API repaired protocol,Fixed 500 stratified pairs
+ab,L1-H1+LR,200,,92.7936031984008,0.5366674166380296,3,,,API repaired protocol,Fixed 500 stratified pairs
+ab,L2-D+LR,50,,89.10899327116324,2.726607841422339,10,,,API repaired protocol,Full canonical test
+ab,L2-D+LR,200,,89.78042336339527,0.8391355901210638,10,,,API repaired protocol,Full canonical test
+ab,L2-D+LR,1000,,90.04359132070678,0.3738155520433789,5,,,API repaired protocol,Full canonical test
+ab,L2-H1,0,,87.67123287671232,,1,,,API repaired protocol,Full canonical test
+ab,L2-H1+LR,50,,85.81473953647517,4.136098157265065,10,,,API repaired protocol,Full canonical test
+ab,L2-H1+LR,200,,86.2086110133763,3.924189856894417,10,,,API repaired protocol,Full canonical test
+ab,L2-H1+LR,1000,,87.92181743404497,0.4341415449921079,5,,,API repaired protocol,Full canonical test
+ag,L1-D+LR,50,,64.05606159184559,1.510856810838661,3,,,API repaired protocol,Fixed 500 stratified pairs
+ag,L1-D+LR,200,,62.42599439369775,5.382307688801395,3,,,API repaired protocol,Fixed 500 stratified pairs
+ag,L1-H1,0,,69.23076923076923,,1,,,API repaired protocol,Fixed 500 stratified pairs
+ag,L1-H1+LR,50,,67.67823556549205,2.0829042622824794,3,,,API repaired protocol,Fixed 500 stratified pairs
+ag,L1-H1+LR,200,,69.31250529167725,0.0366618154171716,3,,,API repaired protocol,Fixed 500 stratified pairs
+ag,L2-D+LR,50,,51.27333162449951,9.583167690584249,10,,,API repaired protocol,Full canonical test
+ag,L2-D+LR,200,,54.890428692935146,3.000737986826232,10,,,API repaired protocol,Full canonical test
+ag,L2-D+LR,1000,,59.335508264805775,1.653564329924189,5,,,API repaired protocol,Full canonical test
+ag,L2-H1,0,,62.98568507157464,,1,,,API repaired protocol,Full canonical test
+ag,L2-H1+LR,50,,60.23971819098635,4.532923942658675,10,,,API repaired protocol,Full canonical test
+ag,L2-H1+LR,200,,62.98524658315008,2.319073446758083,10,,,API repaired protocol,Full canonical test
+ag,L2-H1+LR,1000,,65.26658777120315,0.4844372912200673,5,,,API repaired protocol,Full canonical test
+da,L1-D+LR,50,,95.8512649997632,1.522751269025387,3,,,API repaired protocol,Fixed 500 stratified pairs
+da,L1-D+LR,200,,97.0754810681487,0.8629632608086608,3,,,API repaired protocol,Fixed 500 stratified pairs
+da,L1-H1,0,,97.82608695652172,,1,,,API repaired protocol,Fixed 500 stratified pairs
+da,L1-H1+LR,50,,97.75046046232488,0.9964821185491806,3,,,API repaired protocol,Fixed 500 stratified pairs
+da,L1-H1+LR,200,,99.4475138121547,0.0,3,,,API repaired protocol,Fixed 500 stratified pairs
+da,L2-D+LR,50,,90.04659418257759,6.327131623432472,10,,,API repaired protocol,Full canonical test
+da,L2-D+LR,200,,93.79325609672873,0.3886492801453586,10,,,API repaired protocol,Full canonical test
+da,L2-D+LR,1000,,93.93746825395718,0.2849995857474866,5,,,API repaired protocol,Full canonical test
+da,L2-H1,0,,93.8869665513264,,1,,,API repaired protocol,Full canonical test
+da,L2-H1+LR,50,,92.37951146164586,4.766991553803921,10,,,API repaired protocol,Full canonical test
+da,L2-H1+LR,200,,93.8869665513264,0.0,10,,,API repaired protocol,Full canonical test
+da,L2-H1+LR,1000,,93.8869665513264,0.0,5,,,API repaired protocol,Full canonical test
+wa,L1-D+LR,50,,88.7910730144021,1.899310511408007,3,,,API repaired protocol,Fixed 500 stratified pairs
+wa,L1-D+LR,200,,89.3322159781787,1.687079120296222,3,,,API repaired protocol,Fixed 500 stratified pairs
+wa,L1-H1,0,,84.0,,1,,,API repaired protocol,Fixed 500 stratified pairs
+wa,L1-H1+LR,50,,84.65980024968788,1.3109310887498384,3,,,API repaired protocol,Fixed 500 stratified pairs
+wa,L1-H1+LR,200,,83.55418364407129,0.4282127851132711,3,,,API repaired protocol,Fixed 500 stratified pairs
+wa,L2-D+LR,50,,78.4679478136411,8.224570810190674,10,,,API repaired protocol,Full canonical test
+wa,L2-D+LR,200,,83.00311947368309,1.5373860807332322,10,,,API repaired protocol,Full canonical test
+wa,L2-D+LR,1000,,84.70421850214359,0.597072840510624,5,,,API repaired protocol,Full canonical test
+wa,L2-H1,0,,76.37362637362637,,1,,,API repaired protocol,Full canonical test
+wa,L2-H1+LR,50,,68.13285963406402,9.356394415655409,10,,,API repaired protocol,Full canonical test
+wa,L2-H1+LR,200,,76.81755443252818,0.2533183687734722,10,,,API repaired protocol,Full canonical test
+wa,L2-H1+LR,1000,,76.45801712100054,0.1887034478006662,5,,,API repaired protocol,Full canonical test

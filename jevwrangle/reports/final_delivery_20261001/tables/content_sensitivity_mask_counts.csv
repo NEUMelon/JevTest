@@ -1,0 +1,5 @@
+dataset,n_original,n_retained,n_cross_train_valid,n_test_duplicate,n_test_conflicting,n_positive_original,n_positive_retained
+wa,2049,2047,2,0,0,193,192
+ag,2293,2127,159,7,0,234,218
+da,2473,2407,63,3,0,444,443
+ab,1916,1892,24,0,0,206,203

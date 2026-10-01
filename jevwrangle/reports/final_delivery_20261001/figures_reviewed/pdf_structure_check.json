@@ -1,0 +1,18 @@
+[
+  {
+    "file": "calibration_full_test.pdf",
+    "extracted_text_verified": true
+  },
+  {
+    "file": "learning_curves_full_test.pdf",
+    "extracted_text_verified": true
+  },
+  {
+    "file": "matched_task_cost_latency.pdf",
+    "extracted_text_verified": true
+  },
+  {
+    "file": "selective_risk_b200_seed0.pdf",
+    "extracted_text_verified": true
+  }
+]

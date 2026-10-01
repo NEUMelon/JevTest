@@ -1,0 +1,29 @@
+same_brand:
+  type: noul
+  polarity: 1
+  instructions: "Are `record_a` and `record_b` from the same brand or manufacturer, judging from the name and description?"
+
+same_model_id:
+  type: noul
+  polarity: 1
+  instructions: "Do `record_a` and `record_b` mention the same model number or product code, ignoring case, spaces, and hyphens?"
+
+same_product_type:
+  type: noul
+  polarity: 1
+  instructions: "Are `record_a` and `record_b` the same kind of product?"
+
+variant_mismatch:
+  type: noul
+  polarity: -1
+  instructions: "Do `record_a` and `record_b` indicate a difference in size, capacity, color, pack quantity, or edition?"
+
+accessory_bundle:
+  type: noul
+  polarity: -1
+  instructions: "Is one of `record_a` and `record_b` an accessory, replacement part, or bundle for the other rather than the same item?"
+
+name_same_item:
+  type: noul
+  polarity: 1
+  instructions: "Setting aside differences in wording, do `record_a.name` and `record_b.name` name the same item?"

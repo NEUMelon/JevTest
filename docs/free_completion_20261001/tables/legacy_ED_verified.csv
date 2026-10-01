@@ -1,0 +1,7 @@
+dataset,model,n_expected,n_verified,n_changed,status,f1,precision,recall,auprc,tp,fp,fn,tn,note
+ho,gpt-6-luna,3411,3411,0,COMPLETE_DESCRIPTIVE_NOT_FROZEN,55.10835913312694,39.20704845814978,92.70833333333334,54.827182492955586,89,138,7,3177,"Legacy first-200-row cohort, no fallback probabilities, not full-test/literature-matched evaluation"
+ho,deepseek-v4-flash,3411,3411,0,COMPLETE_DESCRIPTIVE_NOT_FROZEN,72.6457399103139,63.77952755905512,84.375,63.19619205596605,81,46,15,3269,"Legacy first-200-row cohort, no fallback probabilities, not full-test/literature-matched evaluation"
+ad,gpt-6-luna,2200,2200,0,COMPLETE_DESCRIPTIVE_NOT_FROZEN,80.28846153846155,77.31481481481481,83.5,83.65569063684866,167,49,33,1951,"Legacy first-200-row cohort, no fallback probabilities, not full-test/literature-matched evaluation"
+ad,deepseek-v4-flash,2200,2200,0,COMPLETE_DESCRIPTIVE_NOT_FROZEN,63.239074550128535,65.07936507936508,61.5,44.766040920363736,123,66,77,1934,"Legacy first-200-row cohort, no fallback probabilities, not full-test/literature-matched evaluation"
+fl,gpt-6-luna,1200,1200,0,COMPLETE_DESCRIPTIVE_NOT_FROZEN,49.07063197026022,63.46153846153846,40.0,51.360999248661486,198,114,297,591,"Legacy first-200-row cohort, no fallback probabilities, not full-test/literature-matched evaluation"
+fl,deepseek-v4-flash,1200,1200,0,COMPLETE_DESCRIPTIVE_NOT_FROZEN,57.67575322812052,99.5049504950495,40.60606060606061,65.33338309321488,201,1,294,704,"Legacy first-200-row cohort, no fallback probabilities, not full-test/literature-matched evaluation"
