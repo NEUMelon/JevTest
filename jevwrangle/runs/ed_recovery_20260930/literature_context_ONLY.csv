@@ -1,0 +1,8 @@
+dataset,system,f1,source,table,protocol
+ho,HoloClean,51.4,https://www.vldb.org/pvldb/vol16/p738-narayan.pdf,2,Literature protocol; not matched to this run
+ho,HoloDetect,94.4,https://www.vldb.org/pvldb/vol16/p738-narayan.pdf,2,Literature protocol; not matched to this run
+ho,GPT3-175B k10,97.8,https://www.vldb.org/pvldb/vol16/p738-narayan.pdf,2,Literature protocol; not matched to this run
+ad,HoloClean,54.5,https://www.vldb.org/pvldb/vol16/p738-narayan.pdf,2,Literature protocol; not matched to this run
+ad,HoloDetect,99.1,https://www.vldb.org/pvldb/vol16/p738-narayan.pdf,2,Literature protocol; not matched to this run
+ad,GPT3-175B k10,99.1,https://www.vldb.org/pvldb/vol16/p738-narayan.pdf,2,Literature protocol; not matched to this run
+fl,Raha,81.0,https://nantang.github.io/research/pubs/raha.pdf,5,Literature full-table 20 labeled tuples; not comparable to this split
