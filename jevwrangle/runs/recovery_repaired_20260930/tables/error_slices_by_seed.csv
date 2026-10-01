@@ -1,0 +1,169 @@
+dataset,system,budget,seed,slice,n_expected,n_available,status,f1,precision,recall,auprc,tp,fp,fn,tn,note
+wa,J-H0,0,0,Accessory/Bundle Difference,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H0,0,0,Label Noise / Ambiguous,2,2,recomputed_complete,66.66666666666666,100.0,50.0,100.0,1,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H0,0,0,Missing Attribute,708,708,recomputed_complete,76.10619469026548,67.1875,87.75510204081633,86.3914659304114,43,21,6,638,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H0,0,0,Model/ID Mismatch,1230,1230,recomputed_complete,66.66666666666666,70.0,63.63636363636363,72.3714512883528,21,9,12,1188,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H0,0,0,Numeric Difference,52,52,recomputed_complete,97.02970297029702,100.0,94.23076923076924,100.0,49,0,3,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H0,0,0,Other Semantic,40,40,recomputed_complete,97.43589743589745,100.0,95.0,100.0,38,0,2,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H0,0,0,Variant/Version Mismatch,14,14,recomputed_complete,100.0,100.0,100.0,100.0,14,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1n,0,0,Accessory/Bundle Difference,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1n,0,0,Label Noise / Ambiguous,2,2,recomputed_complete,66.66666666666666,100.0,50.0,100.0,1,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1n,0,0,Missing Attribute,708,708,recomputed_complete,74.78260869565217,65.15151515151516,87.75510204081633,86.4081022002834,43,23,6,636,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1n,0,0,Model/ID Mismatch,1230,1230,recomputed_complete,65.67164179104478,64.70588235294117,66.66666666666666,71.47263407002644,22,12,11,1185,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1n,0,0,Numeric Difference,52,52,recomputed_complete,94.94949494949496,100.0,90.3846153846154,100.0,47,0,5,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1n,0,0,Other Semantic,40,40,recomputed_complete,97.43589743589745,100.0,95.0,100.0,38,0,2,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1n,0,0,Variant/Version Mismatch,14,14,recomputed_complete,100.0,100.0,100.0,100.0,14,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1s,0,0,Accessory/Bundle Difference,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1s,0,0,Label Noise / Ambiguous,2,2,recomputed_complete,66.66666666666666,100.0,50.0,100.0,1,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1s,0,0,Missing Attribute,708,708,recomputed_complete,81.72043010752688,86.36363636363636,77.55102040816327,87.56643103172884,38,6,11,653,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1s,0,0,Model/ID Mismatch,1230,1230,recomputed_complete,56.52173913043478,100.0,39.39393939393939,67.35909651606764,13,0,20,1197,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1s,0,0,Numeric Difference,52,52,recomputed_complete,94.94949494949496,100.0,90.3846153846154,100.00000000000004,47,0,5,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1s,0,0,Other Semantic,40,40,recomputed_complete,96.1038961038961,100.0,92.5,100.0,37,0,3,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1s,0,0,Variant/Version Mismatch,14,14,recomputed_complete,100.0,100.0,100.0,99.99999999999996,14,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1c,0,0,Accessory/Bundle Difference,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1c,0,0,Label Noise / Ambiguous,2,2,recomputed_complete,66.66666666666666,100.0,50.0,100.0,1,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1c,0,0,Missing Attribute,708,708,recomputed_complete,80.37383177570094,74.13793103448276,87.75510204081633,86.76019010993681,43,15,6,644,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1c,0,0,Model/ID Mismatch,1230,1230,recomputed_complete,72.1311475409836,78.57142857142857,66.66666666666666,74.38042332149323,22,6,11,1191,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1c,0,0,Numeric Difference,52,52,recomputed_complete,97.02970297029702,100.0,94.23076923076924,100.0,49,0,3,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1c,0,0,Other Semantic,40,40,recomputed_complete,96.1038961038961,100.0,92.5,100.0,37,0,3,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-H1c,0,0,Variant/Version Mismatch,14,14,recomputed_complete,100.0,100.0,100.0,100.0,14,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L1-H1,0,0,Accessory/Bundle Difference,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L1-H1,0,0,Label Noise / Ambiguous,2,2,recomputed_complete,100.0,100.0,100.0,100.0,2,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L1-H1,0,0,Missing Attribute,708,708,recomputed_complete,14.201183431952662,7.655502392344498,97.95918367346938,5.729079026186559,48,579,1,80,Heuristic slices; label-noise name is not a verified annotation
+wa,L1-H1,0,0,Model/ID Mismatch,1230,1230,recomputed_complete,5.704099821746881,2.938475665748393,96.96969696969695,1.9584706180071696,32,1057,1,140,Heuristic slices; label-noise name is not a verified annotation
+wa,L1-H1,0,0,Numeric Difference,52,52,recomputed_complete,100.0,100.0,100.0,100.0,52,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L1-H1,0,0,Other Semantic,40,40,recomputed_complete,100.0,100.0,100.0,100.0,40,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L1-H1,0,0,Variant/Version Mismatch,14,14,recomputed_complete,100.0,100.0,100.0,100.0,14,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L2-H1,0,0,Accessory/Bundle Difference,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L2-H1,0,0,Label Noise / Ambiguous,2,2,recomputed_complete,100.0,100.0,100.0,100.0,2,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L2-H1,0,0,Missing Attribute,708,708,recomputed_complete,52.121212121212125,37.06896551724138,87.75510204081633,39.37817700629555,43,73,6,586,Heuristic slices; label-noise name is not a verified annotation
+wa,L2-H1,0,0,Model/ID Mismatch,1230,1230,recomputed_complete,50.54945054945055,39.6551724137931,69.6969696969697,35.01470357551122,23,35,10,1162,Heuristic slices; label-noise name is not a verified annotation
+wa,L2-H1,0,0,Numeric Difference,52,52,recomputed_complete,99.02912621359224,100.0,98.07692307692308,100.0,51,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L2-H1,0,0,Other Semantic,40,40,recomputed_complete,97.43589743589745,100.0,95.0,100.0,38,0,2,0,Heuristic slices; label-noise name is not a verified annotation
+wa,L2-H1,0,0,Variant/Version Mismatch,14,14,recomputed_complete,100.0,100.0,100.0,100.0,14,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-D0,0,0,Accessory/Bundle Difference,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-D0,0,0,Label Noise / Ambiguous,2,2,recomputed_complete,100.0,100.0,100.0,100.0,2,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-D0,0,0,Missing Attribute,708,708,recomputed_complete,29.17933130699088,17.142857142857142,97.95918367346938,85.17897836321615,48,232,1,427,Heuristic slices; label-noise name is not a verified annotation
+wa,J-D0,0,0,Model/ID Mismatch,1230,1230,recomputed_complete,14.318706697459586,7.75,93.93939393939394,69.21490569124528,31,369,2,828,Heuristic slices; label-noise name is not a verified annotation
+wa,J-D0,0,0,Numeric Difference,52,52,recomputed_complete,100.0,100.0,100.0,100.00000000000004,52,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-D0,0,0,Other Semantic,40,40,recomputed_complete,100.0,100.0,100.0,100.0,40,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+wa,J-D0,0,0,Variant/Version Mismatch,14,14,recomputed_complete,100.0,100.0,100.0,99.99999999999996,14,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H0,0,0,Accessory/Bundle Difference,19,19,recomputed_complete,75.0,60.0,100.0,58.88888888888888,3,2,0,14,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H0,0,0,Label Noise / Ambiguous,3,3,recomputed_complete,80.0,100.0,66.66666666666666,100.0,2,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H0,0,0,Model/ID Mismatch,54,54,recomputed_complete,0.0,0.0,0.0,30.55555555555556,0,0,2,52,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H0,0,0,Numeric Difference,1514,1514,recomputed_complete,57.2972972972973,43.44262295081967,84.12698412698413,57.5941007438028,53,69,10,1382,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H0,0,0,Other Semantic,598,598,recomputed_complete,77.40259740259741,65.35087719298247,94.90445859872612,70.89173470863841,149,79,8,362,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H0,0,0,Variant/Version Mismatch,105,105,recomputed_complete,50.0,33.33333333333333,100.0,58.53146853146853,6,12,0,87,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1n,0,0,Accessory/Bundle Difference,19,19,recomputed_complete,33.33333333333333,33.33333333333333,33.33333333333333,47.61904761904761,1,2,2,14,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1n,0,0,Label Noise / Ambiguous,3,3,recomputed_complete,80.0,100.0,66.66666666666666,100.0,2,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1n,0,0,Model/ID Mismatch,54,54,recomputed_complete,0.0,0.0,0.0,50.0,0,0,2,52,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1n,0,0,Numeric Difference,1514,1514,recomputed_complete,59.34065934065934,45.37815126050421,85.71428571428571,61.25166942642073,54,65,9,1386,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1n,0,0,Other Semantic,598,598,recomputed_complete,75.06702412868633,64.81481481481481,89.171974522293,73.67963223727212,140,76,17,365,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1n,0,0,Variant/Version Mismatch,105,105,recomputed_complete,54.54545454545454,37.5,100.0,45.08269508269508,6,10,0,89,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1s,0,0,Accessory/Bundle Difference,19,19,recomputed_complete,33.33333333333333,33.33333333333333,33.33333333333333,47.61904761904761,1,2,2,14,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1s,0,0,Label Noise / Ambiguous,3,3,recomputed_complete,80.0,100.0,66.66666666666666,100.0,2,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1s,0,0,Model/ID Mismatch,54,54,recomputed_complete,0.0,0.0,0.0,36.66666666666667,0,0,2,52,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1s,0,0,Numeric Difference,1514,1514,recomputed_complete,57.30994152046783,45.37037037037037,77.77777777777779,56.0800918534178,49,59,14,1392,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1s,0,0,Other Semantic,598,598,recomputed_complete,73.18435754189943,65.17412935323384,83.43949044585987,71.63984140387181,131,70,26,371,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1s,0,0,Variant/Version Mismatch,105,105,recomputed_complete,57.14285714285714,40.0,100.0,31.08058608058608,6,9,0,90,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1c,0,0,Accessory/Bundle Difference,19,19,recomputed_complete,66.66666666666666,50.0,100.0,53.333333333333336,3,3,0,13,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1c,0,0,Label Noise / Ambiguous,3,3,recomputed_complete,80.0,100.0,66.66666666666666,100.0,2,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1c,0,0,Model/ID Mismatch,54,54,recomputed_complete,0.0,0.0,0.0,45.0,0,0,2,52,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1c,0,0,Numeric Difference,1514,1514,recomputed_complete,55.27638190954774,40.44117647058824,87.3015873015873,54.308254695257,55,81,8,1370,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1c,0,0,Other Semantic,598,598,recomputed_complete,76.84478371501272,63.983050847457626,96.1783439490446,70.68825978883818,151,85,6,356,Heuristic slices; label-noise name is not a verified annotation
+ag,J-H1c,0,0,Variant/Version Mismatch,105,105,recomputed_complete,54.54545454545454,37.5,100.0,39.38672438672439,6,10,0,89,Heuristic slices; label-noise name is not a verified annotation
+ag,L1-H1,0,0,Accessory/Bundle Difference,19,19,recomputed_complete,30.0,17.647058823529413,100.0,13.422035480859012,3,14,0,2,Heuristic slices; label-noise name is not a verified annotation
+ag,L1-H1,0,0,Label Noise / Ambiguous,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+ag,L1-H1,0,0,Model/ID Mismatch,54,54,recomputed_complete,8.51063829787234,4.444444444444445,100.0,3.624078624078624,2,43,0,9,Heuristic slices; label-noise name is not a verified annotation
+ag,L1-H1,0,0,Numeric Difference,1514,1514,recomputed_complete,9.402985074626866,4.9334377447141735,100.0,3.0704855428992186,63,1214,0,237,Heuristic slices; label-noise name is not a verified annotation
+ag,L1-H1,0,0,Other Semantic,598,598,recomputed_complete,45.17985611510792,29.182156133829,100.0,23.120344104302085,157,381,0,60,Heuristic slices; label-noise name is not a verified annotation
+ag,L1-H1,0,0,Variant/Version Mismatch,105,105,recomputed_complete,12.371134020618555,6.593406593406594,100.0,5.8351968648035815,6,85,0,14,Heuristic slices; label-noise name is not a verified annotation
+ag,L2-H1,0,0,Accessory/Bundle Difference,19,19,recomputed_complete,46.15384615384615,30.0,100.0,32.22222222222222,3,7,0,9,Heuristic slices; label-noise name is not a verified annotation
+ag,L2-H1,0,0,Label Noise / Ambiguous,3,3,recomputed_complete,80.0,100.0,66.66666666666666,100.0,2,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+ag,L2-H1,0,0,Model/ID Mismatch,54,54,recomputed_complete,0.0,0.0,0.0,13.88888888888889,0,2,2,50,Heuristic slices; label-noise name is not a verified annotation
+ag,L2-H1,0,0,Numeric Difference,1514,1514,recomputed_complete,44.72573839662447,30.45977011494253,84.12698412698413,34.714945539344264,53,121,10,1330,Heuristic slices; label-noise name is not a verified annotation
+ag,L2-H1,0,0,Other Semantic,598,598,recomputed_complete,68.59688195991092,52.73972602739726,98.08917197452227,58.73401778114224,154,138,3,303,Heuristic slices; label-noise name is not a verified annotation
+ag,L2-H1,0,0,Variant/Version Mismatch,105,105,recomputed_complete,32.432432432432435,19.35483870967742,100.0,23.067076292882746,6,25,0,74,Heuristic slices; label-noise name is not a verified annotation
+ag,J-D0,0,0,Accessory/Bundle Difference,19,19,recomputed_complete,33.33333333333333,20.0,100.0,33.33333333333333,3,12,0,4,Heuristic slices; label-noise name is not a verified annotation
+ag,J-D0,0,0,Label Noise / Ambiguous,3,3,recomputed_complete,100.0,100.0,100.0,100.0,3,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+ag,J-D0,0,0,Model/ID Mismatch,54,54,recomputed_complete,11.76470588235294,6.25,100.0,35.0,2,30,0,22,Heuristic slices; label-noise name is not a verified annotation
+ag,J-D0,0,0,Numeric Difference,1514,1514,recomputed_complete,11.160318866253322,5.909943714821764,100.0,50.68275448132865,63,1003,0,448,Heuristic slices; label-noise name is not a verified annotation
+ag,J-D0,0,0,Other Semantic,598,598,recomputed_complete,45.70596797671033,29.62264150943396,100.0,77.15105773583912,157,373,0,68,Heuristic slices; label-noise name is not a verified annotation
+ag,J-D0,0,0,Variant/Version Mismatch,105,105,recomputed_complete,14.634146341463412,7.894736842105263,100.0,54.61991711991712,6,70,0,29,Heuristic slices; label-noise name is not a verified annotation
+da,J-H0,0,0,Accessory/Bundle Difference,7,7,recomputed_complete,0.0,0.0,0.0,,0,0,0,7,Heuristic slices; label-noise name is not a verified annotation
+da,J-H0,0,0,Label Noise / Ambiguous,4,4,recomputed_complete,0.0,0.0,0.0,,0,4,0,0,Heuristic slices; label-noise name is not a verified annotation
+da,J-H0,0,0,Model/ID Mismatch,201,201,recomputed_complete,100.0,100.0,100.0,100.0,4,0,0,197,Heuristic slices; label-noise name is not a verified annotation
+da,J-H0,0,0,Numeric Difference,1554,1554,recomputed_complete,0.0,0.0,0.0,,0,3,0,1551,Heuristic slices; label-noise name is not a verified annotation
+da,J-H0,0,0,Other Semantic,707,707,recomputed_complete,98.20627802690582,96.90265486725664,99.54545454545456,99.55112323366848,438,14,2,253,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1n,0,0,Accessory/Bundle Difference,7,7,recomputed_complete,0.0,0.0,0.0,,0,0,0,7,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1n,0,0,Label Noise / Ambiguous,4,4,recomputed_complete,0.0,0.0,0.0,,0,4,0,0,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1n,0,0,Model/ID Mismatch,201,201,recomputed_complete,100.0,100.0,100.0,100.0,4,0,0,197,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1n,0,0,Numeric Difference,1554,1554,recomputed_complete,0.0,0.0,0.0,,0,0,0,1554,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1n,0,0,Other Semantic,707,707,recomputed_complete,96.70079635949944,96.81093394077448,96.5909090909091,98.79286690927972,425,14,15,253,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1s,0,0,Accessory/Bundle Difference,7,7,recomputed_complete,0.0,0.0,0.0,,0,0,0,7,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1s,0,0,Label Noise / Ambiguous,4,4,recomputed_complete,0.0,0.0,0.0,,0,4,0,0,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1s,0,0,Model/ID Mismatch,201,201,recomputed_complete,100.0,100.0,100.0,100.0,4,0,0,197,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1s,0,0,Numeric Difference,1554,1554,recomputed_complete,0.0,0.0,0.0,,0,2,0,1552,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1s,0,0,Other Semantic,707,707,recomputed_complete,98.0963045912654,96.68874172185431,99.54545454545456,99.5417954248582,438,15,2,252,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1c,0,0,Accessory/Bundle Difference,7,7,recomputed_complete,0.0,0.0,0.0,,0,0,0,7,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1c,0,0,Label Noise / Ambiguous,4,4,recomputed_complete,0.0,0.0,0.0,,0,4,0,0,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1c,0,0,Model/ID Mismatch,201,201,recomputed_complete,100.0,100.0,100.0,100.0,4,0,0,197,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1c,0,0,Numeric Difference,1554,1554,recomputed_complete,0.0,0.0,0.0,,0,3,0,1551,Heuristic slices; label-noise name is not a verified annotation
+da,J-H1c,0,0,Other Semantic,707,707,recomputed_complete,98.20627802690582,96.90265486725664,99.54545454545456,99.367718644228,438,14,2,253,Heuristic slices; label-noise name is not a verified annotation
+da,L1-H1,0,0,Accessory/Bundle Difference,7,7,recomputed_complete,0.0,0.0,0.0,,0,7,0,0,Heuristic slices; label-noise name is not a verified annotation
+da,L1-H1,0,0,Label Noise / Ambiguous,4,4,recomputed_complete,0.0,0.0,0.0,,0,4,0,0,Heuristic slices; label-noise name is not a verified annotation
+da,L1-H1,0,0,Model/ID Mismatch,201,201,recomputed_complete,4.968944099378882,2.547770700636943,100.0,2.564102564102564,4,153,0,44,Heuristic slices; label-noise name is not a verified annotation
+da,L1-H1,0,0,Numeric Difference,1554,1554,recomputed_complete,0.0,0.0,0.0,,0,1280,0,274,Heuristic slices; label-noise name is not a verified annotation
+da,L1-H1,0,0,Other Semantic,707,707,recomputed_complete,78.99461400359067,65.28189910979229,100.0,66.51798358979316,440,234,0,33,Heuristic slices; label-noise name is not a verified annotation
+da,L2-H1,0,0,Accessory/Bundle Difference,7,7,recomputed_complete,0.0,0.0,0.0,,0,0,0,7,Heuristic slices; label-noise name is not a verified annotation
+da,L2-H1,0,0,Label Noise / Ambiguous,4,4,recomputed_complete,0.0,0.0,0.0,,0,4,0,0,Heuristic slices; label-noise name is not a verified annotation
+da,L2-H1,0,0,Model/ID Mismatch,201,201,recomputed_complete,80.0,66.66666666666666,100.0,100.0,4,2,0,195,Heuristic slices; label-noise name is not a verified annotation
+da,L2-H1,0,0,Numeric Difference,1554,1554,recomputed_complete,0.0,0.0,0.0,,0,35,0,1519,Heuristic slices; label-noise name is not a verified annotation
+da,L2-H1,0,0,Other Semantic,707,707,recomputed_complete,97.23756906077348,94.6236559139785,100.0,98.97865015297629,440,25,0,242,Heuristic slices; label-noise name is not a verified annotation
+da,J-D0,0,0,Accessory/Bundle Difference,7,7,recomputed_complete,0.0,0.0,0.0,,0,0,0,7,Heuristic slices; label-noise name is not a verified annotation
+da,J-D0,0,0,Label Noise / Ambiguous,4,4,recomputed_complete,0.0,0.0,0.0,,0,4,0,0,Heuristic slices; label-noise name is not a verified annotation
+da,J-D0,0,0,Model/ID Mismatch,201,201,recomputed_complete,100.0,100.0,100.0,100.0,4,0,0,197,Heuristic slices; label-noise name is not a verified annotation
+da,J-D0,0,0,Numeric Difference,1554,1554,recomputed_complete,0.0,0.0,0.0,,0,51,0,1503,Heuristic slices; label-noise name is not a verified annotation
+da,J-D0,0,0,Other Semantic,707,707,recomputed_complete,97.88182831661094,96.06126914660832,99.77272727272728,99.83031201659922,439,18,1,249,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H0,0,0,Accessory/Bundle Difference,64,64,recomputed_complete,96.7741935483871,93.75,100.0,99.58333333333331,15,1,0,48,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H0,0,0,Label Noise / Ambiguous,64,64,recomputed_complete,94.21487603305783,100.0,89.0625,100.0,57,0,7,0,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H0,0,0,Model/ID Mismatch,1473,1473,recomputed_complete,88.88888888888889,83.33333333333334,95.23809523809524,97.91012204339732,40,8,2,1423,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H0,0,0,Numeric Difference,37,37,recomputed_complete,88.88888888888889,80.0,100.0,100.0,4,1,0,32,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H0,0,0,Other Semantic,87,87,recomputed_complete,89.1566265060241,84.0909090909091,94.87179487179486,95.07254893934252,37,7,2,41,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H0,0,0,Variant/Version Mismatch,191,191,recomputed_complete,86.31578947368422,77.35849056603774,97.61904761904762,96.99627300330626,41,12,1,137,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1n,0,0,Accessory/Bundle Difference,64,64,recomputed_complete,96.7741935483871,93.75,100.0,99.58333333333331,15,1,0,48,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1n,0,0,Label Noise / Ambiguous,64,64,recomputed_complete,93.33333333333331,100.0,87.5,100.0,56,0,8,0,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1n,0,0,Model/ID Mismatch,1473,1473,recomputed_complete,88.63636363636364,84.78260869565217,92.85714285714286,97.64904522307395,39,7,3,1424,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1n,0,0,Numeric Difference,37,37,recomputed_complete,88.88888888888889,80.0,100.0,100.0,4,1,0,32,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1n,0,0,Other Semantic,87,87,recomputed_complete,89.1566265060241,84.0909090909091,94.87179487179486,93.90019837361918,37,7,2,41,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1n,0,0,Variant/Version Mismatch,191,191,recomputed_complete,83.87096774193549,76.47058823529412,92.85714285714286,96.80745966606528,39,12,3,137,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1s,0,0,Accessory/Bundle Difference,64,64,recomputed_complete,96.55172413793105,100.0,93.33333333333331,99.58333333333331,14,0,1,49,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1s,0,0,Label Noise / Ambiguous,64,64,recomputed_complete,90.5982905982906,100.0,82.8125,100.0,53,0,11,0,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1s,0,0,Model/ID Mismatch,1473,1473,recomputed_complete,91.56626506024097,92.6829268292683,90.47619047619048,97.22262644175626,38,3,4,1428,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1s,0,0,Numeric Difference,37,37,recomputed_complete,100.0,100.0,100.0,100.0,4,0,0,33,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1s,0,0,Other Semantic,87,87,recomputed_complete,85.71428571428571,86.8421052631579,84.61538461538461,93.4702404330598,33,5,6,43,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1s,0,0,Variant/Version Mismatch,191,191,recomputed_complete,85.39325842696628,80.85106382978722,90.47619047619048,96.90892536360786,38,9,4,140,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1c,0,0,Accessory/Bundle Difference,64,64,recomputed_complete,96.55172413793105,100.0,93.33333333333331,99.58333333333331,14,0,1,49,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1c,0,0,Label Noise / Ambiguous,64,64,recomputed_complete,92.43697478991596,100.0,85.9375,100.0,55,0,9,0,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1c,0,0,Model/ID Mismatch,1473,1473,recomputed_complete,90.69767441860463,88.63636363636364,92.85714285714286,97.6281724976132,39,5,3,1426,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1c,0,0,Numeric Difference,37,37,recomputed_complete,88.88888888888889,80.0,100.0,100.0,4,1,0,32,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1c,0,0,Other Semantic,87,87,recomputed_complete,91.35802469135804,88.09523809523809,94.87179487179486,96.65537343825136,37,5,2,43,Heuristic slices; label-noise name is not a verified annotation
+ab,J-H1c,0,0,Variant/Version Mismatch,191,191,recomputed_complete,88.63636363636364,84.78260869565217,92.85714285714286,98.1705898107414,39,7,3,142,Heuristic slices; label-noise name is not a verified annotation
+ab,L1-H1,0,0,Accessory/Bundle Difference,64,64,recomputed_complete,40.54054054054054,25.42372881355932,100.0,26.41650759487725,15,44,0,5,Heuristic slices; label-noise name is not a verified annotation
+ab,L1-H1,0,0,Label Noise / Ambiguous,64,64,recomputed_complete,100.0,100.0,100.0,100.0,64,0,0,0,Heuristic slices; label-noise name is not a verified annotation
+ab,L1-H1,0,0,Model/ID Mismatch,1473,1473,recomputed_complete,6.23608017817372,3.218390804597701,100.0,2.743122324858556,42,1263,0,168,Heuristic slices; label-noise name is not a verified annotation
+ab,L1-H1,0,0,Numeric Difference,37,37,recomputed_complete,21.052631578947366,11.76470588235294,100.0,9.972426470588236,4,30,0,3,Heuristic slices; label-noise name is not a verified annotation
+ab,L1-H1,0,0,Other Semantic,87,87,recomputed_complete,66.10169491525424,49.36708860759494,100.0,46.826610220005946,39,40,0,8,Heuristic slices; label-noise name is not a verified annotation
+ab,L1-H1,0,0,Variant/Version Mismatch,191,191,recomputed_complete,37.333333333333336,22.950819672131143,100.0,22.967069942702494,42,141,0,8,Heuristic slices; label-noise name is not a verified annotation
+ab,L2-H1,0,0,Accessory/Bundle Difference,64,64,recomputed_complete,90.9090909090909,83.33333333333334,100.0,83.33333333333334,15,3,0,46,Heuristic slices; label-noise name is not a verified annotation
+ab,L2-H1,0,0,Label Noise / Ambiguous,64,64,recomputed_complete,98.4126984126984,100.0,96.875,100.0,62,0,2,0,Heuristic slices; label-noise name is not a verified annotation
+ab,L2-H1,0,0,Model/ID Mismatch,1473,1473,recomputed_complete,68.33333333333333,52.56410256410257,97.61904761904762,53.31156765939375,41,37,1,1394,Heuristic slices; label-noise name is not a verified annotation
+ab,L2-H1,0,0,Numeric Difference,37,37,recomputed_complete,88.88888888888889,80.0,100.0,80.0,4,1,0,32,Heuristic slices; label-noise name is not a verified annotation
+ab,L2-H1,0,0,Other Semantic,87,87,recomputed_complete,90.47619047619048,84.44444444444444,97.43589743589745,85.11512773807854,38,7,1,41,Heuristic slices; label-noise name is not a verified annotation
+ab,L2-H1,0,0,Variant/Version Mismatch,191,191,recomputed_complete,79.24528301886792,65.625,100.0,68.89880952380952,42,22,0,127,Heuristic slices; label-noise name is not a verified annotation
+ab,J-D0,0,0,Accessory/Bundle Difference,64,64,recomputed_complete,69.76744186046511,53.57142857142857,100.0,100.0,15,13,0,36,Heuristic slices; label-noise name is not a verified annotation
+ab,J-D0,0,0,Label Noise / Ambiguous,64,64,recomputed_complete,99.21259842519686,100.0,98.4375,100.0,63,0,1,0,Heuristic slices; label-noise name is not a verified annotation
+ab,J-D0,0,0,Model/ID Mismatch,1473,1473,recomputed_complete,29.47368421052631,17.28395061728395,100.0,96.78746577403284,42,201,0,1230,Heuristic slices; label-noise name is not a verified annotation
+ab,J-D0,0,0,Numeric Difference,37,37,recomputed_complete,57.14285714285714,40.0,100.0,100.0,4,6,0,27,Heuristic slices; label-noise name is not a verified annotation
+ab,J-D0,0,0,Other Semantic,87,87,recomputed_complete,76.47058823529412,61.90476190476191,100.0,97.03189502437954,39,24,0,24,Heuristic slices; label-noise name is not a verified annotation
+ab,J-D0,0,0,Variant/Version Mismatch,191,191,recomputed_complete,58.333333333333336,41.17647058823529,100.0,98.2751079752304,42,60,0,89,Heuristic slices; label-noise name is not a verified annotation

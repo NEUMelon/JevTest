@@ -1,0 +1,9 @@
+dataset,system,n,n_answer,n_answer_probability_conflicts,conflict_rate,answer_f1,raw_probability_f1,interpretation
+wa,L1-H1,2049,2049,1601,0.7813567593948267,88.3054892601432,18.91089108910891,Reported match_probability kept unmodified; explicit answer is a separate secondary decision source
+wa,L2-H1,2049,2049,11,0.005368472425573451,74.56896551724138,73.26315789473684,Reported match_probability kept unmodified; explicit answer is a separate secondary decision source
+ag,L1-H1,2293,2293,1559,0.6798953336240733,70.58823529411765,21.224489795918366,Reported match_probability kept unmodified; explicit answer is a separate secondary decision source
+ag,L2-H1,2293,2293,8,0.0034888791975577847,58.88738127544097,58.52348993288591,Reported match_probability kept unmodified; explicit answer is a separate secondary decision source
+da,L1-H1,2473,2473,1652,0.6680145572179539,96.93654266958424,34.60639127045986,Reported match_probability kept unmodified; explicit answer is a separate secondary decision source
+da,L2-H1,2473,2473,1,0.0004043671653861706,93.1794333683106,93.08176100628931,Reported match_probability kept unmodified; explicit answer is a separate secondary decision source
+ab,L1-H1,1916,1916,1499,0.7823590814196242,94.66357308584686,21.34715025906736,Reported match_probability kept unmodified; explicit answer is a separate secondary decision source
+ab,L2-H1,1916,1916,0,0.0,84.51882845188284,84.51882845188284,Reported match_probability kept unmodified; explicit answer is a separate secondary decision source
