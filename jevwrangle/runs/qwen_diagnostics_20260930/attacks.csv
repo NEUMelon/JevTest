@@ -1,0 +1,43 @@
+dataset,system,variant,experiment,n_test,estimate,ci_low,ci_high,n_eligible,n_events,denominator,fraction_truncated,limitation,clean_accuracy
+wa,Q-H1,T1,E10,400,0.07098765432098765,0.04374659267912772,0.09815950920245399,324,23,Clean-correct cases for this system,,,
+wa,Q-D+LR,T1,E10,400,0.07368421052631578,0.04896907216494845,0.10077519379844961,380,28,Clean-correct cases for this system,,,
+wa,Q-H1,T1,E10,400,0.06645569620253164,0.0391549095404419,0.09345794392523364,316,21,Common clean-correct H AND D cases,,,
+wa,Q-D+LR,T1,E10,400,0.028481012658227847,0.012230556872368311,0.04748127737741979,316,9,Common clean-correct H AND D cases,,,
+wa,Q-H1,T1,E10_defense,400,0.07407407407407407,0.04600950417379061,0.1015154648444523,324,24,Clean-correct cases for this system,,,
+wa,Q-H1,T2,E10,400,0.3333333333333333,0.2816403585234594,0.38364874878869065,324,108,Clean-correct cases for this system,,,
+wa,Q-D+LR,T2,E10,400,0.3894736842105263,0.34131063829787234,0.43733333333333335,380,148,Clean-correct cases for this system,,,
+wa,Q-H1,T2,E10,400,0.31645569620253167,0.2662285631035631,0.36827838827838816,316,100,Common clean-correct H AND D cases,,,
+wa,Q-D+LR,T2,E10,400,0.35443037974683544,0.3012810559006211,0.4079817698221635,316,112,Common clean-correct H AND D cases,,,
+wa,Q-H1,T2,E10_defense,400,0.33024691358024694,0.27843469865003717,0.38083028426681664,324,107,Clean-correct cases for this system,,,
+wa,Q-H1,T3,E10,400,0.27469135802469136,0.22740381858838368,0.3265449170322334,324,89,Clean-correct cases for this system,,,
+wa,Q-D+LR,T3,E10,400,0.21842105263157896,0.17539267015706805,0.26052631578947366,380,83,Clean-correct cases for this system,,,
+wa,Q-H1,T3,E10,400,0.2626582278481013,0.21406703402995575,0.31329585135510496,316,83,Common clean-correct H AND D cases,,,
+wa,Q-D+LR,T3,E10,400,0.189873417721519,0.1488673139158576,0.23226922296611885,316,60,Common clean-correct H AND D cases,,,
+wa,Q-H1,T3,E10_defense,400,0.33641975308641975,0.2848475258918297,0.386709086245226,324,109,Clean-correct cases for this system,,,
+ab,Q-H1,T1,E10,400,0.15056818181818182,0.11271574533908654,0.1882030733641771,352,53,Clean-correct cases for this system,,,
+ab,Q-D+LR,T1,E10,400,0.2047872340425532,0.16358715258865222,0.24670003707823498,376,77,Clean-correct cases for this system,,,
+ab,Q-H1,T1,E10,400,0.14697406340057637,0.11013778322106552,0.18539914552916636,347,51,Common clean-correct H AND D cases,,,
+ab,Q-D+LR,T1,E10,400,0.15273775216138327,0.11506788701660807,0.19155098254195832,347,53,Common clean-correct H AND D cases,,,
+ab,Q-H1,T1,E10_defense,400,0.13636363636363635,0.10086455331412104,0.17428903654485048,352,48,Clean-correct cases for this system,,,
+ab,Q-H1,T2,E10,400,0.375,0.32402037925879296,0.42774607411288873,352,132,Clean-correct cases for this system,,,
+ab,Q-D+LR,T2,E10,400,0.44148936170212766,0.39107314876863797,0.49076517150395776,376,166,Clean-correct cases for this system,,,
+ab,Q-H1,T2,E10,400,0.3659942363112392,0.3141168487366799,0.41880819366852884,347,127,Common clean-correct H AND D cases,,,
+ab,Q-D+LR,T2,E10,400,0.39481268011527376,0.34193118397448674,0.44571428571428573,347,137,Common clean-correct H AND D cases,,,
+ab,Q-H1,T2,E10_defense,400,0.3835227272727273,0.3333333333333333,0.43468086578536064,352,135,Clean-correct cases for this system,,,
+ab,Q-H1,T3,E10,400,0.3039772727272727,0.2549432185279062,0.3539325842696629,352,107,Clean-correct cases for this system,,,
+ab,Q-D+LR,T3,E10,400,0.3324468085106383,0.28534013961605587,0.37994722955145116,376,125,Clean-correct cases for this system,,,
+ab,Q-H1,T3,E10,400,0.29394812680115273,0.2470116491887614,0.3411095866918196,347,102,Common clean-correct H AND D cases,,,
+ab,Q-D+LR,T3,E10,400,0.2824207492795389,0.23545646456256922,0.3294460641399417,347,98,Common clean-correct H AND D cases,,,
+ab,Q-H1,T3,E10_defense,400,0.33238636363636365,0.28068701164676396,0.38310446009389665,352,117,Clean-correct cases for this system,,,
+ab,Ditto-full,T1,E10,400,0.0,0.0,0.0,386,0,Clean-correct cases for this system,0.0125,Appended attacks may be truncated at 256 tokens,
+ab,Ditto-full,T2,E10,400,0.007772020725388601,0.0,0.018042402567995944,386,3,Clean-correct cases for this system,0.015,Appended attacks may be truncated at 256 tokens,
+ab,Ditto-full,T3,E10,400,0.007772020725388601,0.0,0.018042402567995944,386,3,Clean-correct cases for this system,0.015,Appended attacks may be truncated at 256 tokens,
+wa,Ditto-full,T1,E10,400,0.0,0.0,0.0,384,0,Clean-correct cases for this system,0.0,Appended attacks may be truncated at 256 tokens,
+wa,Ditto-full,T2,E10,400,0.0,0.0,0.0,384,0,Clean-correct cases for this system,0.0,Appended attacks may be truncated at 256 tokens,
+wa,Ditto-full,T3,E10,400,0.0,0.0,0.0,384,0,Clean-correct cases for this system,0.0,Appended attacks may be truncated at 256 tokens,
+wa,C+LR_b200_seed0,T1,E10,400,0.01643835616438356,0.0054196879806635906,0.030056703346058825,365,6,Clean-correct cases for this system,,,0.9125
+wa,C+LR_b200_seed0,T2,E10,400,0.01643835616438356,0.0054196879806635906,0.030056703346058825,365,6,Clean-correct cases for this system,,,0.9125
+wa,C+LR_b200_seed0,T3,E10,400,0.01643835616438356,0.0054196879806635906,0.030056703346058825,365,6,Clean-correct cases for this system,,,0.9125
+ab,C+LR_b200_seed0,T1,E10,400,0.0,0.0,0.0,342,0,Clean-correct cases for this system,,,0.855
+ab,C+LR_b200_seed0,T2,E10,400,0.0,0.0,0.0,342,0,Clean-correct cases for this system,,,0.855
+ab,C+LR_b200_seed0,T3,E10,400,0.0,0.0,0.0,342,0,Clean-correct cases for this system,,,0.855

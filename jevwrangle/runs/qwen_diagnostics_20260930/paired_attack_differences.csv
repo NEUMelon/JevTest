@@ -1,0 +1,7 @@
+dataset,variant,system_A,system_B,delta_ASR_B_minus_A,ci_low,ci_high,n_common_correct,condition
+wa,T1,Q-H1,Q-D+LR,-0.03797468354430379,-0.06329113924050633,-0.012658227848101266,316,Both systems correct on clean input
+wa,T2,Q-H1,Q-D+LR,0.03797468354430378,-0.015822784810126583,0.09177215189873418,316,Both systems correct on clean input
+wa,T3,Q-H1,Q-D+LR,-0.07278481012658228,-0.1329905063291139,-0.012658227848101266,316,Both systems correct on clean input
+ab,T1,Q-H1,Q-D+LR,0.0057636887608069065,-0.011527377521613832,0.023054755043227664,347,Both systems correct on clean input
+ab,T2,Q-H1,Q-D+LR,0.028818443804034588,-0.002881844380403458,0.06340057636887608,347,Both systems correct on clean input
+ab,T3,Q-H1,Q-D+LR,-0.011527377521613813,-0.05187319884726225,0.025936599423631124,347,Both systems correct on clean input
